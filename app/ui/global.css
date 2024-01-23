@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Kendati global css dapat dipanggil di komponen manapun, tetapi penamaan class untuk tiap komponen adalah unik */
+
 input[type='number'] {
   -moz-appearance: textfield;
   appearance: textfield;
