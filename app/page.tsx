@@ -19,7 +19,7 @@ export default function Page() {
           >
             <strong>Halo sahabat Malika.</strong> <br /> Silakan daftar untuk
             menikmati layanan dari kami di {/* Ini seharusnya link signup */}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
+            <a href="/dashboard" className="text-blue-500">
               sini
             </a>
             <br />
